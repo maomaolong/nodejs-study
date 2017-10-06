@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-study",
+  "version": "1.0.0",
+  "description": "chenglong nodejs study",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomaolong/nodejs-study.git"
+  },
+  "keywords": [
+    "nodejs",
+    "study"
+  ],
+  "author": "chenglong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maomaolong/nodejs-study/issues"
+  },
+  "homepage": "https://github.com/maomaolong/nodejs-study#readme"
+}
