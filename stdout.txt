@@ -1,0 +1,23 @@
+getdata: 0.102ms
+Module {
+  id: '.',
+  exports: {},
+  parent: null,
+  filename: '/Users/chenglong/Documents/nodejs-study/model-global.js',
+  loaded: false,
+  children: [],
+  paths: 
+   [ '/Users/chenglong/Documents/nodejs-study/node_modules',
+     '/Users/chenglong/Documents/node_modules',
+     '/Users/chenglong/node_modules',
+     '/Users/node_modules',
+     '/node_modules' ] }
+[ '/usr/local/bin/node',
+  '/Users/chenglong/Documents/nodejs-study/model-global.js',
+  'arg1',
+  'arg2' ]
+x64 darwin
+/Users/chenglong/Documents/nodejs-study
+v6.9.4
+{ rss: 24526848, heapTotal: 10522624, heapUsed: 4440800 }
+exit code is  0
